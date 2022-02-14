@@ -1,6 +1,6 @@
 # Qiskit_Practice
-Repository with notebooks containing some practice in Quantum Computing using [Qiskit](https://qiskit.org/).
-Starting with exercises given in [Qiskit textbook](https://qiskit.org/textbook/preface.html).
+Repository with notebooks containing some practice in Quantum Computing using [Qiskit](https://qiskit.org/).<br>
+Starting with exercises given in [Qiskit textbook](https://qiskit.org/textbook/preface.html).<br>
 
 [Qiskit textbook](https://qiskit.org/textbook/preface.html)
 ===================================================================
