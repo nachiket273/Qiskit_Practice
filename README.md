@@ -8,8 +8,9 @@ Starting with exercises given in [Qiskit textbook](https://qiskit.org/textbook/p
       i) The Atoms of Computation - [Half Adder using CNOT and toffoli gate](./Qiskit_Book/Quantum_States_And_Qubits/Half_Adder_CNOT_Toffoli.ipynb)<br>
       ii) [Representing Qubit States](./Qiskit_Book/Quantum_States_And_Qubits/Quantum_States.ipynb)<br>
       iii) [Single Qubit Gates](./Qiskit_Book/Quantum_States_And_Qubits/Single_Qubit_Gates.ipynb)<br>
-2) [Multiple_Qubits_and_Entanglement](https://github.com/nachiket273/Qiskit_Practice/tree/main/Qiskit_Book/Multiple_Qubits_and_Entanglement) <br>
+2) [Multiple_Qubits_and_Entanglement](https://qiskit.org/textbook/ch-gates/introduction.html) <br>
       i) [Multiple Qubits and Entangled States](./Qiskit_Book/Multiple_Qubits_and_Entanglement/Multiple_Qubits_and_Entangled_States.ipynb)<br>
+      ii) [Phase Kickback](./Qiskit_Book/Multiple_Qubits_and_Entanglement/Phase_Kickback.ipynb)<br>
       
       
 # Contact
